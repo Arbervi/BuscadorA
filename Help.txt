@@ -1,0 +1,1 @@
+If python is "broken" you need to open de file with the cmd or create a .bat file.
